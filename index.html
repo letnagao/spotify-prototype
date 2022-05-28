@@ -19,28 +19,50 @@
 </head>
 <body>
     <div class="music-player">
-        <button id="playlist">
-            <i class="fa-solid da-angle-down"></i>
+      <button id="playlist">
+        <i class="fa-solid fa-angle-down"></i>
+      </button>
+      <img id="song-image" src="make-me-move.jpg" />
+      <div class="song-details">
+        <p id="song-name">Make Me Move</p>
+        <p id="song-artist">Culture Code</p>
+      </div>
+      <div class="player-options">
+        <button id="shuffle">
+          <i class="fa-solid fa-shuffle"></i>
         </button>
-        <img id="song-image" src="make-me-move.jpg" />
-        <div class="song-details">
-            <p id="song-name">Make me Move</p>
-            <p id="song-artist">Culture Code</p>
-        </div>
-        <div class="player-options">
-            <button id="suffle">
-                <i class="fa-solid fa-shuffle"></i>
-            </button>
-            <button id="prev">
-                <i class="fa-solid fa-backward-step"></i>
-            </button>
-            <button i="play">
-                <i class="fa-solid fa-play"></i>
-            </button>
-            <button id="pause" class="hide">
-                <i class="fa-solid fa-pause"></i>
-            </button>
-        </div>
+        <button id="prev">
+          <i class="fa-solid fa-backward-step"></i>
+        </button>
+        <button id="play">
+          <i class="fa-solid fa-play"></i>
+        </button>
+        <button id="pause" class="hide">
+          <i class="fa-solid fa-pause"></i>
+        </button>
+        <button id="next">
+          <i class="fa-solid fa-forward-step"></i>
+        </button>
+        <button id="repeat">
+          <i class="fa-solid fa-repeat"></i>
+        </button>
+      </div>
+      <audio id="audio" preload="metadata"></audio>
+      <div id="progress-bar">
+        <div id="current-progress"></div>
+      </div>
+      <div class="time-container">
+        <span id="current-time">0:00</span>
+        <span id="max-duration">0:00</span>
+      </div>
+      <div id="playlist-container" class="hide">
+        <button id="close-button">
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+        <ul id="playlist-songs"></ul>
+      </div>
     </div>
-</body>
+    
+    <script src="script.js"></script>
+  </body>
 </html>
