@@ -37,14 +37,15 @@ Javascript Project
 ```
 </details>
 
-## Contributing 💡
-Pull request are welcome but please open an issue and discuss what you will do before 😊
-
-## License 📄
-This project is open-sourced under the [MIT license](https://opensource.org/licenses/MIT).
-
 ## Disclamer ❗️
 A word of disclaimer, this code is not original! 
 I am simply a student passionate about Front-end and the intersection of code and design, I always try to do courses and projects during my free time, so I must warn you that this code is NOT ORIGINAL.
 
 You can find the source of this code via: https://codingartistweb.com/
+
+## Contributing 💡
+Pull request are welcome but please open an issue and discuss what you will do before 😊
+
+## Like this project? 💖
+
+If you are feeling generous, buy me a coffee! - https://www.buymeacoffee.com/lunagao
