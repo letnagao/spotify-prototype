@@ -8,7 +8,13 @@ Javascript Project
 ![Latest commit](https://img.shields.io/github/last-commit/letnagao/spotify-prototype?color=red)
 [![GitHub watchers](https://img.shields.io/github/watchers/letnagao/spotify-prototype?logo=GitHub)](https://github.com/letnagao/spotify-prototype/watchers)
 ![Maintained](https://img.shields.io/maintenance/yes/9999)
-
+  
+</ul><h2> Preview ⚡️</h2>
+<table align="center">
+  <tr>
+    <td><video src="https://user-images.githubusercontent.com/99754900/173213334-6b9daf54-edac-4264-86ed-b7b6682fbcde.mp4" width=1280 height=800></td>
+  </tr>
+</table>
 
 </ul><h2>Technologies Used 🛠️</h2>
 <ul>
@@ -17,14 +23,8 @@ Javascript Project
 <li>CSS</li>
 </ul><ul>
 <li>JavaScript</li>
-  
-</ul><h2> Preview 🔥</h2>
-<p align="center">
-  <video src="https://user-images.githubusercontent.com/99754900/173213334-6b9daf54-edac-4264-86ed-b7b6682fbcde.mp4" />
-</p>
 
-
-## Usage 📋
+</ul><h2>Usage 📋</h2>
 <details open>
 <summary>1. Server Setup</summary>
 
